@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi! 👋 I'm Hari Narayan Gupta, a passionate MERN Stack Developer with over 2 years of experience building scalable and user-friendly web applications. I specialize in:
-<br><br># Frontend Development: Crafting responsive and visually appealing user interfaces using React.js.
-<br># Backend Development: Building robust and efficient APIs with Node.js and Express.js.
-<br># Database Management: Designing and managing databases with MongoDB.
+<br><br>**Frontend Development:** Crafting responsive and visually appealing user interfaces using React.js.
+<br>**Backend Development:** Building robust and efficient APIs with Node.js and Express.js.
+<br>**Database Management:** Designing and managing databases with MongoDB.
 
 
 ## 🌐 Socials:
