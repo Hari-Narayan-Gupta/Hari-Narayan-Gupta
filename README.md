@@ -52,9 +52,4 @@ Hi! 👋 I'm Hari Narayan Gupta, a passionate Full Stack Developer with over 2 y
 </p>
 
 
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Hari-Narayan-Gupta&icon=0&color=0"/></a>
-</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
